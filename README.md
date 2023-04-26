@@ -1,2 +1,2 @@
-# Ejercicios_Patrones_de_diseno
+# Ejercicios de Patrones de Diseño
 Ejemplos de codigo de patrones de diseño
